@@ -1,0 +1,14 @@
+/Users/ayushb/Desktop/Password Generator/generator/bin/Debug/net8.0/generator
+/Users/ayushb/Desktop/Password Generator/generator/bin/Debug/net8.0/generator.deps.json
+/Users/ayushb/Desktop/Password Generator/generator/bin/Debug/net8.0/generator.runtimeconfig.json
+/Users/ayushb/Desktop/Password Generator/generator/bin/Debug/net8.0/generator.dll
+/Users/ayushb/Desktop/Password Generator/generator/bin/Debug/net8.0/generator.pdb
+/Users/ayushb/Desktop/Password Generator/generator/obj/Debug/net8.0/generator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayushb/Desktop/Password Generator/generator/obj/Debug/net8.0/generator.AssemblyInfoInputs.cache
+/Users/ayushb/Desktop/Password Generator/generator/obj/Debug/net8.0/generator.AssemblyInfo.cs
+/Users/ayushb/Desktop/Password Generator/generator/obj/Debug/net8.0/generator.csproj.CoreCompileInputs.cache
+/Users/ayushb/Desktop/Password Generator/generator/obj/Debug/net8.0/generator.dll
+/Users/ayushb/Desktop/Password Generator/generator/obj/Debug/net8.0/refint/generator.dll
+/Users/ayushb/Desktop/Password Generator/generator/obj/Debug/net8.0/generator.pdb
+/Users/ayushb/Desktop/Password Generator/generator/obj/Debug/net8.0/generator.genruntimeconfig.cache
+/Users/ayushb/Desktop/Password Generator/generator/obj/Debug/net8.0/ref/generator.dll

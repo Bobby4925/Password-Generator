@@ -12,3 +12,4 @@
 /Users/ayushb/Desktop/Password Generator/generator/obj/Debug/net8.0/generator.pdb
 /Users/ayushb/Desktop/Password Generator/generator/obj/Debug/net8.0/generator.genruntimeconfig.cache
 /Users/ayushb/Desktop/Password Generator/generator/obj/Debug/net8.0/ref/generator.dll
+/Users/ayushb/Desktop/Password Generator/generator/obj/Debug/net8.0/generator.sourcelink.json

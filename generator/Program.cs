@@ -20,22 +20,6 @@ char[] passwordArr = new char[arrLength];
 //Example - 16 is length now for example (Uppercase Lowercase Numbers and Symbols) divide up amount of each equally
 //Do a random number generator and on each iteration do a random number generation of 1 - 4 to see whether to put uppercase lowercase numbers or symbols)
 int type;
-for(int i = 0; i<passwordArr.Length; i++){
-    type = r.Next(1,5); 
-    if(type == 1){
-        passwordArr[i] = Uppercase(); 
-    }
-    else if(type == 2){
-        passwordArr[i] = Lowercase(); 
-    }
-    else if(type == 3){
-        char num = char.Parse(generateRandomNum().ToString());
-        passwordArr[i] = num;
-    }
-    else if(type == 4){
-        passwordArr[i] = generateSymbol(); 
-    }
-}
 static char generateRandomLetter(){
     //65 - 90 
     var r = new Random(); 
@@ -62,3 +46,23 @@ static char generateSymbol(){
     int random = r.Next(33,48); 
     return (char)random;
 }
+
+for(int i = 0; i<passwordArr.Length; i++){
+    type = r.Next(1,5); 
+    if(type == 1){
+        passwordArr[i] = Uppercase(); 
+    }
+    else if(type == 2){
+        passwordArr[i] = Lowercase(); 
+    }
+    else if(type == 3){
+        char num = char.Parse(generateRandomNum().ToString());
+        passwordArr[i] = num;
+    }
+    else if(type == 4){
+        passwordArr[i] = generateSymbol(); 
+    }
+}
+
+Console.WriteLine("Here is your Password!"); 
+Console.WriteLine(new string(passwordArr));
